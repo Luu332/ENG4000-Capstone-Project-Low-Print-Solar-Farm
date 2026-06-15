@@ -1,1 +1,2 @@
-# ENG4000-Capstone-Project-Low-Print-Solar-Farm
+# Low-Footprint-Solar-Tracking-System
+A Capstone Project done by a multidisciplinary engineering team
